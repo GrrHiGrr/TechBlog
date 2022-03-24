@@ -14,7 +14,7 @@
 
 ## Usage
 
-[Heroku Deployed Application](https://.herokuapp.com/)
+[Heroku Deployed Application](https://grrhigrr-techblog.herokuapp.com/)
 
 
 ## Installation
